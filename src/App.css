@@ -1,0 +1,95 @@
+h1{
+    color:#949494
+}
+
+h4{
+    color: #5a5673;
+}
+
+.buttons{
+    background-color: #7868e6;
+    padding: 10px 20px;
+    color: #fff;
+    letter-spacing: 1.5px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 3px 3px 7px #b3b3b3;
+    transition: 0.5s ease;
+
+
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1.75;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+}
+
+.buttons:hover{
+    cursor: pointer;
+
+}
+
+.buttons:disabled{
+    cursor: not-allowed;
+}
+
+
+
+
+.authenticateRightShift{
+    margin-right: 15px;
+}
+
+
+.authenticatedButtonContaier{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    
+}
+
+.note{
+    width:70%;
+    margin:20px 10px 0px 10px;
+    font-style: italic;
+}
+
+.container {
+  overflow-x: auto;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px 10px 0px 10px;
+  margin: 10px;
+}
+
+@media only screen and (max-width: 525px) {
+
+    .container{
+        width: 85vw;
+        margin-right: 0;
+  margin-left: 0;
+  padding: 10px 10px 0px 10px;
+  margin: 0;
+    }
+
+
+    .authenticatedButtonContaier{flex-wrap: wrap;
+    justify-content: flex-end;
+    
+}
+
+.authenticateRightShift{
+
+    margin: 5px 10px;
+}
+ 
+  .note{
+    width:75%;
+    margin:25px 15px 0px 15px;
+}
+
+.buttons{
+    margin-left: 3vw;
+    font-size: 12px;
+}
+}
