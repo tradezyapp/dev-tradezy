@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dev-tradezy/static/css/main.9a9013ea.chunk.css",
-    "main.js": "/dev-tradezy/static/js/main.03cc74a4.chunk.js",
-    "main.js.map": "/dev-tradezy/static/js/main.03cc74a4.chunk.js.map",
+    "main.js": "/dev-tradezy/static/js/main.23a0d59f.chunk.js",
+    "main.js.map": "/dev-tradezy/static/js/main.23a0d59f.chunk.js.map",
     "runtime-main.js": "/dev-tradezy/static/js/runtime-main.6f075589.js",
     "runtime-main.js.map": "/dev-tradezy/static/js/runtime-main.6f075589.js.map",
     "static/js/2.6b754dec.chunk.js": "/dev-tradezy/static/js/2.6b754dec.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6f075589.js",
     "static/js/2.6b754dec.chunk.js",
     "static/css/main.9a9013ea.chunk.css",
-    "static/js/main.03cc74a4.chunk.js"
+    "static/js/main.23a0d59f.chunk.js"
   ]
 }
